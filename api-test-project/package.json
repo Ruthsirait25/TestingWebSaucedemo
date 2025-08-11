@@ -1,0 +1,21 @@
+{
+  "name": "api-test-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "mocha"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^5.2.0",
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "axios": "^1.10.0",
+    "mocha": "^11.6.0"
+  }
+}
